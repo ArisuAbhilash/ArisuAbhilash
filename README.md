@@ -53,7 +53,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArisuAbhilash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=false&order=2" height="151" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArisuAbhilash&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6&order=3" height="152" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArisuAbhilash" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=ArisuAbhilash&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="198" alt="stats graph"  />
 </div>
 
