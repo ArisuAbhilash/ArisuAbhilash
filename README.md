@@ -57,10 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ArisuAbhilash&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="198" alt="stats graph"  />
 </div>
 
-## 🏆 Holopin Badges
-[![An image of @priyaghosal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ArisuAbhilash)](https://holopin.io/@arisuabhilash)
 
-###
+### 🎖️ Holopin Badges
+[![An image of @arisuabhilash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arisuabhilash)](https://holopin.io/@arisuabhilash)
+
 
 
 ###
